@@ -1,0 +1,17 @@
+.adminback
+{
+    margin-top: 0px;
+    background-image: 
+    url(
+    "../pics/profile1.jpg");  
+    /* background-repeat:repeat;   */
+    background-size: 100% 100%;
+    font-size:medium;
+    min-height: 560px;
+    min-width: 1000px;  
+}
+.tabledesign
+{
+    font-size: medium;
+    background-color: aquamarine;
+}

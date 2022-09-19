@@ -1,0 +1,13 @@
+.basedesign{
+    padding:20px;
+    border:2px solid brown ;
+    border-radius: 12px;
+    background-color: bisque;
+    width:300px;
+    align-self: center;
+    font-size: medium;
+    float:left;
+    margin-left: 70px;
+    margin-top: 70px;
+    
+}

@@ -1,0 +1,24 @@
+.addingform
+{
+    margin-top: 0px;
+    background-image: 
+    url(
+    "../pics/home_bg1.jpg");  
+    /* background-repeat:repeat;   */
+    background-size: 100% 100%;
+    font-size:medium;
+    min-height: 560px;
+    min-width: 1000px;
+}
+.formdesign
+{
+    padding:20px;
+    border:2px solid brown ;
+    border-radius: 12px;
+    font-family:cursive;
+    color: chocolate;
+    background-color: bisque;
+    width:600px;
+    align-self: center;
+    font-size: medium;
+}
